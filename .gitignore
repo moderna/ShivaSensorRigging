@@ -1,0 +1,17 @@
+Thumbs.db
+
+# Shiva
+*.luo
+*.lub
+*.ccz
+/shiva/*/Build
+/shiva/*/Saves
+/shiva/*/Models/Thumbnails
+/shiva/*/Models/*.edf
+/shiva/*/Resources/AIModels/*.edf
+/shiva/*/Resources/Materials/Thumbnails
+/shiva/*/Resources/Meshes/Thumbnails
+/shiva/*/Resources/Scripts/*.bak
+/shiva/*/Resources/Textures/*.png
+/shiva/*/Resources/Textures/Thumbnails
+/shiva/*/Scenes/Thumbnails
